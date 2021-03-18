@@ -16,6 +16,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/mehmethuseyindelipalta">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>        
   </a>&nbsp;&nbsp;
+     <a href="https://www.instagram.com/codeveloperman">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>        
+  </a>&nbsp;&nbsp;
 </p>
 
 
@@ -40,8 +43,8 @@ Here are some ideas to get you started:
 
 ## 💻 I'm currently working on
 
-<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img src="https://seeklogo.com/vector-logo/333113/spring.svg"></code>
+<code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
 
 
 ### Github Repos:
