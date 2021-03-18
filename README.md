@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](www.instagram.com/mehmethuseyindelipalta)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=www.instagram.com/mehmethuseyindelipalta)]
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](codeveloperman) 
