@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java Project
-- 🌱 I’m currently learning Spring Boot, Hibernate and Thymeleaf
+- 🔭 I’m currently working on PHP Project
+- 🌱 I’m currently learning CodeIgniter
 - 📫 How to reach me: You can reach me through my Instagram and LinkedIn accounts.
 
 ## 📌 GitHub Stats and Contact
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>        
   </a>&nbsp;&nbsp;
      <a href="https://www.instagram.com/codeveloperman">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>        
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/>        
   </a>&nbsp;&nbsp;
 </p>
 
