@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## 🎓 Education
 
 - 📖 **Software Engineering**\
-📆 2016 - 2021 (Coming Soon)\
+📆 2016 - 2021\
 📍 **Firat University** - Elazig, Turkey
 
 ## 💻 I'm currently working on
