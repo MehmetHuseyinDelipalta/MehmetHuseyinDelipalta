@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 ## 💻 I'm currently working on
 
-<code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img src="https://cloud.githubusercontent.com/assets/3203951/11592768/5f46bec4-9a55-11e5-925f-1179b1268b7d.png"></code>
 
 ## 🧠 Know & Using
 
