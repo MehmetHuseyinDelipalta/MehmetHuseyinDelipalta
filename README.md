@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PHP Project
-- 🌱 I’m currently learning CodeIgniter
+- 🔭 I’m currently working on PHP & CodeIgniter Project
+- 🌱 I’m currently learning PHP & CodeIgniter
 - 📫 How to reach me: You can reach me through my Instagram and LinkedIn accounts.
 
 ## 📌 GitHub Stats and Contact
