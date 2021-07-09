@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
-- 📖 **Software Engineering**\
+- 📖 **Software Engineer**\
 📆 2016 - 2021\
 📍 **Firat University** - Elazig, Turkey
 
