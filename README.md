@@ -1,6 +1,5 @@
 ### Hello World! I'm Mehmet Hüseyin Delipalta 👋
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHP & CodeIgniter Project
@@ -10,17 +9,16 @@ Here are some ideas to get you started:
 ## 📌 GitHub Stats and Contact
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mehmethuseyindelipalta/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/mehmethuseyindelipalta">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehmethuseyindelipalta/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
      <a href="https://www.instagram.com/codeveloperman">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/>        
   </a>&nbsp;&nbsp;
 </p>
-
 
 <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=mehmethuseyindelipalta&show_icons=true&count_private=true&hide=contribs,issue" />
@@ -38,8 +36,8 @@ Here are some ideas to get you started:
 ## 🎓 Education
 
 - 📖 **Software Engineer**\
-📆 2016 - 2021\
-📍 **Firat University** - Elazig, Turkey
+  📆 2016 - 2021\
+  📍 **Firat University** - Elazig, Turkey
 
 ## 💻 I'm currently working on
 
