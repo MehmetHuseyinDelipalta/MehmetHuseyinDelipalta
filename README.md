@@ -1,54 +1,76 @@
-### Hello World! I'm Mehmet Hüseyin Delipalta 👋
+<div align="center" width="50">
 
-Here are some ideas to get you started:
+<img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/MehmetHuseyinDelipaltaGithub.gif?raw=true" href="https://github.com/MehmetHuseyinDelipalta" alt="Hello World!" width="625"/> <br>
+<img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/MehmetHuseyinDelipalta" alt="Mehmet Hüseyin Delipalta - coDeveloperMan"  width="550"/><br>
 
-- 🔭 I’m currently working on PHP & CodeIgniter Project
-- 🌱 I’m currently learning PHP & CodeIgniter
-- 📫 How to reach me: You can reach me through my Instagram and LinkedIn accounts.
+<p><strong>Software Engineer and Developer
+<br>I'm coding the future!
+<br><br> I'm listening now 🎧  </strong></p>
 
-## 📌 GitHub Stats and Contact
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=pirr4j0rpatt4zujlgkxd6tlq)](https://open.spotify.com/user/pirr4j0rpatt4zujlgkxd6tlq) <br>
 
-<p align="center">
-  <a href="https://www.instagram.com/mehmethuseyindelipalta">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>        
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehmethuseyindelipalta/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-     <a href="https://www.instagram.com/codeveloperman">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/>        
-  </a>&nbsp;&nbsp;
-</p>
+![Totals Hits](https://komarev.com/ghpvc/?username=MehmetHuseyinDelipalta&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMehmetHuseyinDelipalta&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/MehmetHuseyinDelipalta-grey?style=flat&logo=telegram)](https://t.me/MehmetHuseyinDelipalta) <br>
 
-<p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=mehmethuseyindelipalta&show_icons=true&count_private=true&hide=contribs,issue" />
-</p>
+</div>
 
-<p align="center">
-  📫 How to reach me: <a href='mailto:mehmethuseyindelipalta@gmail.com'>mehmethuseyindelipalta@gmail.com</a>
-</p>
-<p align="center">
-    <a href="https://github.com/mehmethuseyindelipalta/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=mehmethuseyindelipalta">
-    </a>
-</p>
+<hr></hr>
 
-## 🎓 Education
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
-- 📖 **Software Engineer**\
-  📆 2016 - 2021\
-  📍 **Firat University** - Elazig, Turkey
+```dart
+// tools_I_use organized
+class About extends Me {
+  const myTools = {
+    "ProgramingLanguages" : { "PHP", "Javascript", "Python" },
+    "OtherLanguages" : {"HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite","MySql" },
+    "Editors" : { "Vscode", "Sublime", "PhpStorm" },
+    "Platforms" : { "Windows","GNU/Linux"},
+    "OtherTools" : { "Git"}
+  };
+}
+```
 
-## 💻 I'm currently working on
+- <img alt="GIF" src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/Developer.gif" width="25" /> &nbsp;I’m currently working on **PHP & CodeIgniter Project**. <img width="15%" align="right" alt="Github Image" src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- <img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Node.js**. <br>
+- <img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Mehmet Hüseyin Delipalta](https://t.me/mehmethuseyinDelipalta)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-<code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
-<code><img src="https://cloud.githubusercontent.com/assets/3203951/11592768/5f46bec4-9a55-11e5-925f-1179b1268b7d.png"></code>
+<div align="center" >
+<a  href="https://github.com/MehmetHuseyinDelipalta">
 
-## 🧠 Know & Using
+<img src="https://raw.githubusercontent.com/MehmetHuseyinDelipalta/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/MehmetHuseyinDelipalta/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/MehmetHuseyinDelipalta/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-<code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></code>
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/MehmetHuseyinDelipalta/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+
+<hr></hr>
+
+<img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/MehmetHuseyinDelipalta" width="700"/><br>
+<img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+
+</div>
