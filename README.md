@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ## 📌 GitHub Stats and Contact
 
-<p align="center">
+<p tyle="align=center">
   <a href="https://www.instagram.com/mehmethuseyindelipalta">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>        
   </a>&nbsp;&nbsp;
@@ -20,14 +20,14 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
+<p style="align=center">
     <img  src="https://github-readme-stats.vercel.app/api?username=mehmethuseyindelipalta&show_icons=true&count_private=true&hide=contribs,issue" />
 </p>
 
-<p align="center">
+<p style="align=center">
   📫 How to reach me: <a href='mailto:mehmethuseyindelipalta@gmail.com'>mehmethuseyindelipalta@gmail.com</a>
 </p>
-<p align="center">
+<p style="align=center">
     <a href="https://github.com/mehmethuseyindelipalta/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=mehmethuseyindelipalta">
     </a>
