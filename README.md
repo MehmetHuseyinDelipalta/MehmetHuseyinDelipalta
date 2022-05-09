@@ -50,7 +50,6 @@ class About extends Me {
 - <img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Node.js**. <br>
 - <img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Mehmet Hüseyin Delipalta](https://t.me/mehmethuseyinDelipalta)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
 <a  href="https://github.com/MehmetHuseyinDelipalta">
