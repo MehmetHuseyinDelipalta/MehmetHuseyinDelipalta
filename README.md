@@ -52,18 +52,7 @@ class About extends Me {
 - <img src="https://github.com/MehmetHuseyinDelipalta/MehmetHuseyinDelipalta/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Mehmet Hüseyin Delipalta](https://t.me/mehmethuseyinDelipalta)**<br>
 
 <div align="center" >
-<a  href="https://github.com/MehmetHuseyinDelipalta">
-
-
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/MehmetHuseyinDelipalta/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
+<a  href="https://github.com/MehmetHuseyinDelipalta"></a>
 
 <hr></hr>
 
