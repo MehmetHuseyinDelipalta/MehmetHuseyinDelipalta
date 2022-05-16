@@ -5,9 +5,6 @@
 
 <p><strong>Software Engineer and Developer
 <br>I'm coding the future!
-<br><br> I'm listening now 🎧  </strong></p>
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=pirr4j0rpatt4zujlgkxd6tlq)](https://open.spotify.com/user/pirr4j0rpatt4zujlgkxd6tlq) <br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=MehmetHuseyinDelipalta&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMehmetHuseyinDelipalta&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
