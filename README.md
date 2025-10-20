@@ -7,7 +7,6 @@
 <br>I'm coding the future!
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=MehmetHuseyinDelipalta&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMehmetHuseyinDelipalta&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/MehmetHuseyinDelipalta-grey?style=flat&logo=telegram)](https://t.me/MehmetHuseyinDelipalta) <br>
 
 </div>
