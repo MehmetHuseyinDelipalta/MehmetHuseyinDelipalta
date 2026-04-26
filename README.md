@@ -17,7 +17,7 @@ Herhangi bir konuda iletişime geçmek için aşağıdaki bağlantıları kullan
 
 ---
 
-### Deneyim kapsamı
+### Deneyim Kapsamı
 
 Kamusal ve kurumsal projelerde sistem tasarımından geliştirme ve bakım süreçlerine kadar tüm aşamalarda aktif rol alıyorum.
 
