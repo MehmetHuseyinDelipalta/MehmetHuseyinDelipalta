@@ -114,4 +114,4 @@ Kamusal ve kurumsal projelerde sistem tasarımından geliştirme ve bakım süre
 
 [LinkedIn](https://www.linkedin.com/in/MehmetHuseyinDelipalta) · [E‑posta](mailto:mehmethuseyindelipalta@gmail.com) · [Telegram](https://t.me/MehmetHuseyinDelipalta) · [GitHub](https://github.com/MehmetHuseyinDelipalta)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MehmetHuseyinDelipalta&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/MehmetHuseyinDelipalta.svg?style=flat&label=PROFILE+VIEWS&color=fe7d37&extraCount=5244)
